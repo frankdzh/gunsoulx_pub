@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://10.168.1.191/package/gunsoulx-ios-debug/76/iOS/gunsoulx-ios-debug.200.11.2_76_1f4655c6.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.Funova.Gunsoul-X</string>
+                <key>bundle-version</key>
+                <string>200.11.2</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>GunsoulX</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
